@@ -5,7 +5,7 @@
 The **Society Management System** is a C++-based application that simulates the core operational workflows of a residential society.  
 It provides modular functionality to manage residents, staff, facilities, billing, event bookings, and access control in a structured, object-oriented manner.
 
-Rather than a simple console application, this project demonstrates real-world software engineering principles through encapsulation, polymorphism, modular design, and data structures, making it relevant as a **Software Development Engineer (SDE)** project.
+Rather than a simple console application, this project demonstrates real-world software engineering principles through encapsulation, polymorphism, modular design, and data structures.
 
 ---
 
